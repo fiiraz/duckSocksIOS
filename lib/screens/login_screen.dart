@@ -48,7 +48,6 @@ class _LoginScreenState extends State<LoginScreen> {
           key: formKey,
           child: Column(
             children: <Widget>[
-              SizedBox(height: MediaQuery.of(context).size.height/7),
               Column(
                 children: <Widget>[
                   Container(
